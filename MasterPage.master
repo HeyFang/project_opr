@@ -1,0 +1,24 @@
+&nbsp;
+<table style="width: 100%">
+    <tr>
+        <td style="width: 150px; height: 24px">
+        </td>
+        <td colspan="2" style="height: 24px">
+            <span style="font-size: 36pt">Online parking reservation</span></td>
+    </tr>
+    <tr>
+        <td style="width: 150px">
+        </td>
+        <td colspan="2">
+            <asp:contentplaceholder id="ContentPlaceHolder1" runat="server"></asp:contentplaceholder>
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 150px">
+        </td>
+        <td style="width: 100px">
+        </td>
+        <td style="width: 100px">
+        </td>
+    </tr>
+</table>
